@@ -1,8 +1,9 @@
 # Boseum 
-![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-lightyellow?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-cyan?logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-34bdeb.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3734eb.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <p align="center">
     <img src="assets/images/logo.png" style="width:275px;height:auto">
